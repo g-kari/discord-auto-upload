@@ -8,7 +8,7 @@ require (
 	github.com/gorilla/mux v1.8.0
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/skratchdot/open-golang v0.0.0-20200116055534-eef842397966
-	golang.org/x/image v0.38.0
+	golang.org/x/image v0.41.0
 	golang.org/x/mod v0.33.0
 )
 
